@@ -1,4 +1,4 @@
-# Esay Visa Status
+# Easy Visa Status
 
 **Description**
 
